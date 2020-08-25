@@ -1,2 +1,2 @@
 # Python
-Currency Exchange 
+Basic things to engage with Python
